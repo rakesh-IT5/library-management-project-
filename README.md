@@ -18,11 +18,11 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> < Rakesh Thodeti > </p>
-    <p><strong>Email ID:</strong> <rakeshthodetig6cc@gmail.com> </p>
-    <p><strong>College Name:</strong> <JB Institute of education & technology, hyderabad.> </p>
-    <p><strong>Branch/Specialization :</strong> <Mining> </p>
-    <p><strong>College ID:</strong> <1461A2535> </p>
+    <p><strong>Name:</strong>  Rakesh Thodeti  </p>
+    <p><strong>Email ID:</strong> rakeshthodetig6cc@gmail.com </p>
+    <p><strong>College Name:</strong> JB Institute of education & technology, hyderabad. </p>
+    <p><strong>Branch/Specialization :</strong> Mining </p>
+    <p><strong>College ID:</strong> 1461A2535 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
