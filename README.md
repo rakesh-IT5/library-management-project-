@@ -29,18 +29,18 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
+    <p><strong>Course Opted:</strong> AWS DevOps cloud computing </p>
     <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Name:</strong> Jesdeep sir </p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
 <p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
 
@@ -63,10 +63,7 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+> _This is a placeholder. During my internship at SurePro Ed, I supported the provisioning and management of cloud infrastructure on AWS . I worked with core AWS services including EC2, VPC, subnets, security groups, IAM, and S3 to enable secure and scalable application deployments. I containerized applications using Docker and assisted in deploying and managing them on Kubernetes . I contributed to building and maintaining CI/CD pipelines using Jenkins and GitHub Actions to automate build and deployment processes. I wrote html, CSS, NodeJS  code with the helps of developers for deployment workflows. I gained practical exposure to  implementing basic security checks and access control policies. I also developed a strong understanding of networking fundamentals such as IP addressing, subnetting, and routing, and supported monitoring and troubleshooting activities using AWS CloudWatch  and collaborated closely with developers and team members to resolve infrastructure-related issues.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
@@ -74,7 +71,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> &lt; Libary management system &gt;</p>
 
 <p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
