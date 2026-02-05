@@ -69,7 +69,7 @@ During my internship at SurePro Ed, I supported the provisioning and management 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt; E-Learning Platform → &gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt; E-Learning Platform &gt;</p>
 
 <p><strong><a href="#project2">Project 2:</a></strong> &lt; Libary management system &gt;</p>
 
@@ -145,7 +145,7 @@ Social Awareness: Developed a heightened sense of empathy and responsibility tow
 
 <div align="center">
 
-<img src="[https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck](https://github.com/rakesh-IT5/library-management-project-/blob/main/plantation.jpeg)" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/rakesh-IT5/library-management-project-/blob/main/plantation.jpeg" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
 
