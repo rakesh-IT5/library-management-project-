@@ -69,7 +69,7 @@ During my internship at SurePro Ed, I supported the provisioning and management 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- E-Learning Platform → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt; E-Learning Platform → &gt;</p>
 
 <p><strong><a href="#project2">Project 2:</a></strong> &lt; Libary management system &gt;</p>
 
@@ -87,7 +87,7 @@ During my internship at SurePro Ed, I supported the provisioning and management 
  This project is a containerized Library Management System deployed on a Minikube cluster, featuring a Node.js backend and a MongoDB database with Persistent Volume Claims (PVC) for reliable data storage. By using Docker for containerization and Kubernetes for orchestration, the system ensures a self-healing, scalable environment for managing book requests and administrative approvals. This setup demonstrates a modern DevOps workflow, moving from local development to a cloud-native deployment.
 </p>
 <p>
-  <a href="[<!-- Add link to full report -->](https://github.com/rakesh-IT5/library-management-project-/blob/main/SURE%20Trust%20project%20document%20(2).pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/rakesh-IT5/library-management-project-/blob/main/SURE%20Trust%20project%20document%20(2).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
