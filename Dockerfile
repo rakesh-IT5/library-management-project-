@@ -1,15 +1,15 @@
-# Build stage - prepare assets
+# Build stage
 FROM node:18-alpine AS builder
 
 WORKDIR /app
 
-# Install http-server
-RUN npm install -g http-server
+# Copy package.json and package-lock.json
+COPY package*.json ./
 
-# Copy frontend files
-COPY . .
+# Install all dependencies (including dev for build)
+RUN npm install
 
-# Production stage - lightweight image
+# Production stage
 FROM node:18-alpine
 
 WORKDIR /app
@@ -17,11 +17,15 @@ WORKDIR /app
 # Install dumb-init for proper signal handling
 RUN apk add --no-cache dumb-init
 
-# Install http-server
-RUN npm install -g http-server
+# Copy package.json
+COPY package*.json ./
 
-# Copy frontend files from builder
-COPY --from=builder /app .
+# Install only production dependencies
+RUN npm install --only=production
+
+# Copy application code from builder
+COPY --from=builder /app/node_modules ./node_modules
+COPY . .
 
 # Create non-root user
 RUN addgroup -g 1001 -S nodejs && \
@@ -29,13 +33,13 @@ RUN addgroup -g 1001 -S nodejs && \
 
 USER nodejs
 
-# Expose port 8080
-EXPOSE 8080
+# Expose port (default 5000)
+EXPOSE 5000
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-    CMD wget --quiet --tries=1 --spider http://localhost:8080/ || exit 1
+    CMD node -e "require('http').get('http://localhost:5000/api/health', (r) => {if (r.statusCode !== 200) throw new Error(r.statusCode)})"
 
-# Start the HTTP server with dumb-init
+# Start the server with dumb-init
 ENTRYPOINT ["dumb-init", "--"]
-CMD ["http-server", "-p", "8080", "--cors", "--gzip", "false"]
+CMD ["node", "server.js"]
