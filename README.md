@@ -22,15 +22,15 @@
     <p><strong>Email ID:</strong> rakeshthodetig6cc@gmail.com </p>
     <p><strong>College Name:</strong> JB Institute of education & technology, hyderabad. </p>
     <p><strong>Branch/Specialization :</strong> Mining </p>
-    <p><strong>College ID:</strong> 1461A2535 </p>
+    
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> AWS DevOps cloud computing </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Cloud Computing And DevOps </p>
+    <p><strong>Instructor Name:</strong> Mr. Jasdeep Singh Hanspal </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> 6 months </p>
@@ -40,9 +40,9 @@
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> Jasdeep sir </p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Mr. Jasdeep Singh Hanspal </p>
+<p><strong>Trainer Email ID:</strong> Jasdeep.jsh+suretrust@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Senior Manager, Microsoft Corporation</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -69,44 +69,25 @@ During my internship at SurePro Ed, I supported the provisioning and management 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- E-Learning Platform → --&gt;</p>
 
 <p><strong><a href="#project2">Project 2:</a></strong> &lt; Libary management system &gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: E-Learning Platform</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+ Developed a full-stack E-learning application featuring a responsive UI and a MongoDB/Express data layer. Managed the end-to-end deployment process on AWS EC2, including server configuration and environment optimization to support high-availability and seamless performance.
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: Library Mangement System</h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+ This project is a containerized Library Management System deployed on a Minikube cluster, featuring a Node.js backend and a MongoDB database with Persistent Volume Claims (PVC) for reliable data storage. By using Docker for containerization and Kubernetes for orchestration, the system ensures a self-healing, scalable environment for managing book requests and administrative approvals. This setup demonstrates a modern DevOps workflow, moving from local development to a cloud-native deployment.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="[<!-- Add link to full report -->](https://github.com/rakesh-IT5/library-management-project-/blob/main/SURE%20Trust%20project%20document%20(2).pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -114,7 +95,11 @@ During my internship at SurePro Ed, I supported the provisioning and management 
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
+- [Docker](https://docs.docker.com/)
+- [Kubernetes](https://kubernetes.io/docs/home/)
+- [Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download)
+- [w3schools](https://www.w3schools.com/)
+- [ChatGpt](https://chatgpt.com/)
 <!--you can add refrences over here in same syntax as above -->
 ---
 
@@ -122,19 +107,19 @@ During my internship at SurePro Ed, I supported the provisioning and management 
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+The LST and SST sessions at the Sure Trust Foundation helped me develop professional ethics, effective communication, and workplace awareness. Through work culture and advocacy sessions, I gained an understanding of integrity, gender equality, and respectful professional behavior. The yoga and mindfulness practices improved my self-discipline and stress management, while community engagement with elderly citizens strengthened my empathy and social responsibility. Overall, these sessions supported my personal growth, career readiness, and balanced lifestyle.
+
+
 ---
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented and professional development activities organized through the LST and SST sessions at the Skill India Institute. These initiatives were designed to build a bridge between technical expertise and social responsibility. By engaging in both social service and professional ethics workshops, I developed a well-rounded perspective on my role as both an engineer and a responsible citizen.<!-- add descreption in your own words -->
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
@@ -146,10 +131,10 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+Professional Integrity: Gained a clear understanding of workplace ethics and the legal frameworks protecting women, ensuring a safe and respectful professional environment.
+Career Preparedness: Improved communication and coordination skills through group activities, building the confidence necessary for modern work cultures.
+Balanced Lifestyle: Successfully integrated stress management techniques to maintain productivity while contributing positively to social causes.
+Social Awareness: Developed a heightened sense of empathy and responsibility toward vulnerable members of society and environmental conservation.
 
 ### **Photos**
 
@@ -159,8 +144,8 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
+
+<img src="[https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck](https://github.com/rakesh-IT5/library-management-project-/blob/main/plantation.jpeg)" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
 
